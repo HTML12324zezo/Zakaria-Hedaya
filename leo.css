@@ -1,0 +1,10 @@
+body{
+    background-image:url("img/صورة.jpg");
+    background-size: cover;
+}
+.hi{
+    margin-top: 150px;
+    margin-left: 50px;
+    font-weight: 900;
+    font-size: 50px;
+}
